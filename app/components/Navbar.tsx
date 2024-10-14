@@ -8,9 +8,9 @@ import { useShoppingCart } from "use-shopping-cart";
 
 const links = [
   { name: "עמוד בית", href: "/" },
-  { name: "טיקטוק", href: "/Men" },
-  { name: "פייסבוק", href: "/Women" },
-  { name: "אינסטגרם", href: "/Teens" },
+  { name: "טיקטוק", href: "/Tiktok" },
+  { name: "פייסבוק", href: "/Facebook" },
+  { name: "אינסטגרם", href: "/Instagram" },
 ];
 
 export default function Navbar() {
