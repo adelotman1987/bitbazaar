@@ -7,10 +7,10 @@ import { ShoppingBag } from "lucide-react";
 import { useShoppingCart } from "use-shopping-cart";
 
 const links = [
-  { name: "Home", href: "/" },
-  { name: "Tiktok", href: "/Men" },
-  { name: "Facebook", href: "/Women" },
-  { name: "Instagram", href: "/Teens" },
+  { name: "עמוד בית", href: "/" },
+  { name: "טיקטוק", href: "/Men" },
+  { name: "פייסבוק", href: "/Women" },
+  { name: "אינסטגרם", href: "/Teens" },
 ];
 
 export default function Navbar() {
